@@ -54,9 +54,9 @@ Once setup is complete, power on the drone and follow these steps to operate:
 ---
 
 ## Circuit Diagram
-![Circuit Diagram](circuit diagram/transmitter.jpg)
+![Circuit Diagram](circuit_diagram/transmitter.jpg)
 
-Click [here](circuit diagram/transmitter.jpg) to view the diagram in full size.
+Click [here](circuit_diagram/transmitter.jpg) to view the diagram in full size.
 
 
 ---
