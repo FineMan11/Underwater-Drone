@@ -8,7 +8,7 @@ A wireless underwater drone designed for real-time environmental monitoring. Equ
 - **Microcontroller:** Arduino ATmega (Uno/Nano/compatible)
 - **Motor Driver:** L298N Dual H-Bridge
 - **Motors:** JGB37-520 High Torque Speed Metal Gear Motors
-- **Wireless Communication:** LoRa SX1278 RF Modules (Transmitter & Receiver)
+- **Wireless Communication:** LoRa SX1278 RF Modules (Receiver)
 - **Power Supply:** 14.8V 2600mAh Li-ion Battery
 
 ### 2. 📷 Camera & Temperature Monitoring
@@ -18,6 +18,7 @@ A wireless underwater drone designed for real-time environmental monitoring. Equ
 ### 3. 🕹️ Controller Transmitter
 - **Joystick:** 3-axis XYZ Analog Joystick
 - **Microcontroller:** Arduino Nano
+- **Wireless Communication:** LoRa SX1278 RF Modules (Transmitter)
 ---
 
 ## 🛠 Setup Instructions
