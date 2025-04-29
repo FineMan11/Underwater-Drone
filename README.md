@@ -1,4 +1,4 @@
-# 🤖 Underwater Wireless Drone
+# 🤖 Underwater Wireless Drone (CAPSTONE)
 
 A wireless underwater drone designed for real-time environmental monitoring. Equipped with a temperature sensor and onboard ESP32-CAM, it streams POV video and captures live temperature data via LoRa communication.
 
